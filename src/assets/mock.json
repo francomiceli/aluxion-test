@@ -1,0 +1,178 @@
+{"aluxioners": {
+  "a1" : {
+    "name": "Javi",
+    "description": "CEO & Founder",
+    "homeToWorkStop": 681,
+    "workToHomeStop": 681,
+    "image": "todavia no hay image",
+    "id": 00
+  },
+  "a2" : {
+    "name": "Aluxioner 01",
+    "description": "Frontend developer",
+    "homeToWorkStop": 3378,
+    "workToHomeStop": 494,
+    "image": "todavia no hay image",
+    "id": 01
+  },
+  "a3" : {
+    "name": "Aluxioner 02",
+    "description": "Backend Developer",
+    "homeToWorkStop": 2908,
+    "workToHomeStop": 1229,
+    "image": "todavia no hay image",
+    "id": 02
+  },
+  "a4" : {
+    "name": "Aluxioner 03",
+    "description": "Mobile developer",
+    "homeToWorkStop": 1688,
+    "workToHomeStop": 2710,
+    "image": "todavia no hay image",
+    "id": 03
+  },
+  "a5" : {
+    "name": "Aluxioner 04",
+    "description": "Head of Backend",
+    "homeToWorkStop": 59,
+    "workToHomeStop": 85,
+    "image": "todavia no hay image",
+    "id": 04
+  },
+  "a6" : {
+    "name": "Aluxioner 05",
+    "description": "Designer",
+    "homeToWorkStop": 189,
+    "workToHomeStop": 806,
+    "image": "todavia no hay image",
+    "id": 05
+  },
+  "a7" : {
+    "name": "Aluxioner 06",
+    "description": "CEO & Founder",
+    "homeToWorkStop": 681,
+    "workToHomeStop": 681,
+    "image": "todavia no hay image",
+    "id": 06
+  },
+  "a8" : {
+    "name": "Aluxioner 07",
+    "description": "Frontend developer",
+    "homeToWorkStop": 3378,
+    "workToHomeStop": 494,
+    "image": "todavia no hay image",
+    "id": 07
+  },
+  "a9" : {
+    "name": "Aluxioner 08",
+    "description": "Backend Developer",
+    "homeToWorkStop": 2908,
+    "workToHomeStop": 1229,
+    "image": "todavia no hay image",
+    "id": 08
+  },
+  "a10" : {
+    "name": "Aluxioner 09",
+    "description": "Mobile developer",
+    "homeToWorkStop": 1688,
+    "workToHomeStop": 2710,
+    "image": "todavia no hay image",
+    "id": 09
+  },
+  "a11" : {
+    "name": "Aluxioner 10",
+    "description": "Head of Backend",
+    "homeToWorkStop": 59,
+    "workToHomeStop": 85,
+    "image": "todavia no hay image",
+    "id": 10
+  },
+  "a12" : {
+    "name": "Aluxioner 11",
+    "description": "Designer",
+    "homeToWorkStop": 189,
+    "workToHomeStop": 806,
+    "image": "todavia no hay image",
+    "id": 11
+  },  
+  "a13" : {
+    "name": "Aluxioner 12",
+    "description": "Frontend developer",
+    "homeToWorkStop": 3378,
+    "workToHomeStop": 494,
+    "image": "todavia no hay image",
+    "id": 12
+  },
+  "a14" : {
+    "name": "Aluxioner 13",
+    "description": "Backend Developer",
+    "homeToWorkStop": 2908,
+    "workToHomeStop": 1229,
+    "image": "todavia no hay image",
+    "id": 13
+  },
+  "a15" : {
+    "name": "Aluxioner 14",
+    "description": "Mobile developer",
+    "homeToWorkStop": 1688,
+    "workToHomeStop": 2710,
+    "image": "todavia no hay image",
+    "id": 14
+  },
+  "a16" : {
+    "name": "Aluxioner 15",
+    "description": "Head of Backend",
+    "homeToWorkStop": 59,
+    "workToHomeStop": 85,
+    "image": "todavia no hay image",
+    "id": 15
+  },
+  "a17" : {
+    "name": "Aluxioner 16",
+    "description": "Designer",
+    "homeToWorkStop": 189,
+    "workToHomeStop": 806,
+    "image": "todavia no hay image",
+    "id": 16
+  }, 
+  "a18" : {
+    "name": "Aluxioner 17",
+    "description": "Frontend developer",
+    "homeToWorkStop": 3378,
+    "workToHomeStop": 494,
+    "image": "todavia no hay image",
+    "id": 17
+  },
+  "a19" : {
+    "name": "Aluxioner 18",
+    "description": "Backend Developer",
+    "homeToWorkStop": 2908,
+    "workToHomeStop": 1229,
+    "image": "todavia no hay image",
+    "id": 18
+  },
+  "a20" : {
+    "name": "Aluxioner 19",
+    "description": "Mobile developer",
+    "homeToWorkStop": 1688,
+    "workToHomeStop": 2710,
+    "image": "todavia no hay image",
+    "id": 19
+  },
+  "a21" : {
+    "name": "Aluxioner 20",
+    "description": "Head of Backend",
+    "homeToWorkStop": 59,
+    "workToHomeStop": 85,
+    "image": "todavia no hay image",
+    "id": 20
+  },
+  "a22" : {
+    "name": "Aluxioner 21",
+    "description": "Designer",
+    "homeToWorkStop": 189,
+    "workToHomeStop": 806,
+    "image": "todavia no hay image",
+    "id": 21
+  }
+}
